@@ -11,7 +11,7 @@ Console.WriteLine("La lunghezza della classifica è " + classificaCibi.Length);
 
 for (int i = 0; i < classificaCibi.Length; i++)
 {
-    Console.WriteLine(i + " - " + classificaCibi[i]);
+    Console.WriteLine((i + 1) + " - " + classificaCibi[i]);
 }
 
 
